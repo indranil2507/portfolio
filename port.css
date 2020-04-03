@@ -1,0 +1,116 @@
+body{
+    background-color: black;
+    text-align: center;
+    color: blanchedalmond;
+    margin-top: 250px;
+    font-family :'poppins', sans-serif;
+    align-items: center;
+    
+}
+.btn{
+margin-top: 50px;
+}
+h1{
+    font-size:70px;
+}
+#about{
+    margin-top: 280px;
+   
+}
+
+#profile {
+    margin-top: 250px;
+    margin-bottom: 250px;
+}
+#skills{
+    padding-top:250px;
+}
+
+h3{
+    color: #db4437;;
+    line-height:2rem ;
+    text-decoration: underline;
+}
+p{
+    color: blanchedalmond;
+    line-height: 2rem;
+    font-size:20px; 
+}
+hr{
+    width: 50rem;
+    color: seashell;
+}
+.Profile-list{
+    margin-top: 25px;
+    align-items: left;
+    list-style: none;
+    margin-left:0;
+
+}
+.skill-bars li .percent75 {
+    width: 75%;
+    height: 0.6rem;
+}
+.skill-bars li .percent70 {
+    width: 70%;
+    height: 0.6rem;
+}
+.skill-bars li .percent60 {
+    width: 60%;
+    height: 0.6rem;
+}
+.skill-bars li .percent0 {
+    width: 0%;
+    height: 0.6rem;
+}
+.skill-bars li .percent80 {
+    width: 80%;
+    height: 0.6rem;
+}
+.skill-bars li {
+    height: 0.6rem;
+    background: #a1a1a1;
+    width: 100%;
+    margin-bottom: 4rem;
+    padding: 0;
+    position: relative;
+    list-style: none;
+}
+.worksofar {
+    margin-top: 250px;
+    
+
+}   
+  .work{
+      margin-top: 100px;
+      margin-left:250px;
+      margin-right:250px;
+      text-align: left;
+  }  
+ .education{
+    margin-top: 250px;
+    margin-bottom:250px;
+
+ }
+ .navbar { overflow-y: hidden !important }
+ .edu{
+    margin-top: 100px;
+    margin-left:250px;
+    margin-right:250px;
+    text-align: left;
+    list-style: none;
+    
+ }
+ .edu li p{
+     line-height: 0.5rem;
+     
+ }
+ .edu li h4{
+     padding-bottom: 7px;
+     font-size:20px ;
+
+ }
+ .contact{
+     margin-top:100px;
+     margin-bottom: 100px;
+ }
